@@ -5,7 +5,7 @@ Objective is to write a layered testbench for D Flip-Flop Asynchronous Reset Low
 + Better reusability.
 + Parallel development and verification.
 # TABLE OF CONTENTS
-+ [INTRODUCTION](https://github.com/RohithNagesh/Layered_testbench_for_D-Flipflop/edit/main/README.md/ "title INTRODUCTION!")
++ [INTRODUCTION](#INTRODUCTION)
 + [DESIGN]
 + [TRANSATION CLASS]
 + [GENERATOR]
